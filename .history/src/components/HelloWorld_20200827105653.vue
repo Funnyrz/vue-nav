@@ -44,7 +44,7 @@
           <ul class="list-unstyled">
             <b-media tag="li" class="nav-li">
               <template v-slot:aside>
-                <b-img rounded alt="placeholder" width="55" src="https://picsum.photos/125/125/?image=58"></b-img>
+                <b-img rounded alt="placeholder" src="https://picsum.photos/125/125/?image=58"></b-img>
                 <div class="nav-card">
                   百度一下
                  <div class="nav-card-text">

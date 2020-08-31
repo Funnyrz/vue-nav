@@ -44,7 +44,7 @@
           <ul class="list-unstyled">
             <b-media tag="li" class="nav-li">
               <template v-slot:aside>
-                <b-img rounded alt="placeholder" width="55" src="https://picsum.photos/125/125/?image=58"></b-img>
+                <b-img rounded alt="placeholder" src="assets/00a80686ba00479386905fbdadf74227.png"></b-img>
                 <div class="nav-card">
                   百度一下
                  <div class="nav-card-text">
@@ -69,7 +69,7 @@
 
             <b-media tag="li">
               <template v-slot:aside>
-                <b-img blank blank-color="#bac" width="30" alt="placeholder"></b-img>
+                <b-img blank blank-color="#bac" width="64" alt="placeholder"></b-img>
               </template>
 
               <h5 class="mt-0 mb-1">List-based media object</h5>
